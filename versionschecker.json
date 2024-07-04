@@ -1,7 +1,7 @@
 [
     {
-        "script":"tudev-weaponanalysis",
-        "version":"1.2.0",
-        "changes": "First verison nothing changed :)"
+        "script": "tudev-weaponanalysis",
+        "version": "1.2.0",
+        "changes": "First version, nothing changed :)"
     }
 ]
